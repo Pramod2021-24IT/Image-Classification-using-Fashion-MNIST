@@ -14,10 +14,15 @@
 
 ## Model APIs-
 > 1. Sequential API-
-![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/657de02b-9b8a-4156-aaff-780fd59ce95d)
+
+
+>> ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/657de02b-9b8a-4156-aaff-780fd59ce95d)
 
 > 2. Functional API-
-![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/8978fb51-a206-4742-8183-49e2f27730ff)
+>
+> 
+>> ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/001c5f69-74af-43ad-94f9-1476154908e2)
+
 
 
 * Train-Test-Split
