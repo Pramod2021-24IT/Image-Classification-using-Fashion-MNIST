@@ -10,6 +10,9 @@
 
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/ac301ee8-d6c0-4bcb-8a7b-abaa0470327a)
 
+![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/b09e2e06-abe8-4d60-83b0-47f1bbd4f49a)
+
+
 * Train-Test-Split
 
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/960e182e-8427-41d8-989d-744991dc9624)
