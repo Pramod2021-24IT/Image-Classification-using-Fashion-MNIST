@@ -4,15 +4,21 @@
 
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/25505ddc-5bfd-43c8-b0fc-c684b99e0dd9)
 
+
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/fc630d51-2133-4571-a106-151347a031c9)
+
 
 * Model Summary-
 
+
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/ac301ee8-d6c0-4bcb-8a7b-abaa0470327a)
+
 
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/b09e2e06-abe8-4d60-83b0-47f1bbd4f49a)
 
+
 ## Model APIs-
+
 > 1. Sequential API-
 
 
@@ -23,6 +29,10 @@
 > 
 >> ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/001c5f69-74af-43ad-94f9-1476154908e2)
 
+
+* Used Activation Functions-
+
+![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/bf7a7475-b283-46c2-8503-e7e0f878da70)
 
 
 * Train-Test-Split
