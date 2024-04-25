@@ -11,6 +11,8 @@
 * Model Summary-
 
 
+
+
 ![image](https://github.com/Pramod2021-24IT/Image-Classification-using-Fashion-MNIST/assets/95674009/ac301ee8-d6c0-4bcb-8a7b-abaa0470327a)
 
 
